@@ -48,11 +48,10 @@ Esta API proporciona información tales como:
 
 ## Anexos
 
-- [UEFA Champions League]()
+- [UEFA Champions League Video](https://itlaedudo-my.sharepoint.com/:v:/g/personal/202010952_itla_edu_do/EccpUTlMTJtEg_ML5iMWbVkButm7OQbkp6Hg4wyqxtAg-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sm4VDj)
+- [UEFA Champions League](https://itlaedudo-my.sharepoint.com/:i:/g/personal/202010952_itla_edu_do/EUJvntxdvRVDuBQQ9yRkfasBz0WSuKWZsk-zqONL2hVnGg?e=VkiHZ5)
 
- - [Informe de Ventas de Video Juegos](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EUcoRhoSJAhIoQ852CYsETQBSuiAJxSflwJBbNAsAU9zFg?e=rkdV7M)
-
- - [Informe de Indicadores Mundiales](https://itlaedudo-my.sharepoint.com/:b:/g/personal/202010952_itla_edu_do/EXcR8em6vD9AnFl_piBogWUBhtPT5_X-ns-aFgEQabaXeQ?e=eDL0tc)
+ 
 
 ## Agradecimientos
 
